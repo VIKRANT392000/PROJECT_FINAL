@@ -1,9 +1,0 @@
-streamlit
-nltk
-vaderSentiment
-bs4
-requests
-pandas
-matlotlib
-plotly
-seaborn
